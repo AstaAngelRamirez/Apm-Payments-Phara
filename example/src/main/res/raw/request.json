@@ -1,0 +1,21 @@
+{
+  "hostURL": "http://sandbox.api.vyzva.com/",
+  "requestLanguage": "",
+  "autoRegisterToken": false,
+  "timeout": 60,
+  "retryOnTimeout": false,
+  "webServices": {
+    "methods": {
+      "get": "/v1/resource/payment-methods"
+    },
+    "cards": {
+      "get": "/v1/payments/cards",
+      "create": "/v1/payments/cards",
+      "delete": "/v1/payments/cards/"
+    },
+    "payment": {
+      "get": "/v1/payments/subscriptions",
+      "create": "/v1/payments/subscriptions"
+    }
+  }
+}

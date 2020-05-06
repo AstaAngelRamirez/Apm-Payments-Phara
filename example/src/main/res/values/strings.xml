@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APM. Module: Payments</string>
+
+    <string name="paypal_client_id">AUebUPyZWVxJuNQUM9m02qbUiiJw_J-BFTfRC6XzyFkJ7aydr2kT5hH148YvEAyDPns-X5QH3uX8HyuE</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "productionMode": false,
+  "openpay": {
+    "production":{
+      "merchantID": "",
+      "apiKey": ""
+    },
+    "sandbox":{
+      "merchantID": "mx39njezbmyejdz5nxrl",
+      "apiKey": "pk_ba32633e1d094050a656e063c80b757f"
+    }
+  },
+  "conekta": {
+    "production":{
+      "apiKey": "",
+      "apiVersion": ""
+    },
+    "sandbox":{
+      "apiKey": "key_Mcxv8zYLkGLydJeJ35Z3xsw",
+      "apiVersion": "1.0.0"
+    }
+  },
+  "paypal":{
+    "production":{
+    },
+    "sandbox":{
+      "clientID": "AUebUPyZWVxJuNQUM9m02qbUiiJw_J-BFTfRC6XzyFkJ7aydr2kT5hH148YvEAyDPns-X5QH3uX8HyuE"
+    }
+  }
+}
