@@ -48,7 +48,7 @@ dependencies {
 
     // APM
     //api 'com.apm:request:1.1.1'
-    implementation 'com.github.AstaAngelRamirez:Apm-Request-Phara:1.1.1'
+    implementation 'com.github.AstaAngelRamirez:Apm-Request-Phara:v1.1.1'
 
     // CARD READER
     api 'io.card:android-sdk:5.5.1'

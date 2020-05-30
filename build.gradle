@@ -41,10 +41,11 @@ allprojects {
         google()
         jcenter()
         mavenCentral()
-        maven {
+        maven { url 'https://jitpack.io' }
+        /*maven {
             url "https://jitpack.io"
             credentials { username authToken }
-        }
+        }*/
         /*maven {
             credentials {
                 username gitUser
